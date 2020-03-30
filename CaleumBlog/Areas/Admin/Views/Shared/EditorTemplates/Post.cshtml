@@ -1,0 +1,20 @@
+﻿@model Post
+@addTagHelper *, Microsot.AspNetCore.Mvc.TagHelpers
+
+<input type="hidden" asp-for="ID" />
+<input type="hidden" asp-for="Publicado" />
+<input type="hidden" asp-for="DataPublicacao" />
+
+<label asp-for="Titulo"></label>
+<input asp-for="Titulo" />
+<span asp-validation-for="Titulo"></span>
+<br />
+<label asp-for="Resumo"></label>
+<textarea asp-for="Resumo" rows="5" cols="50"></textarea>
+<span asp-validation-for="Resumo"></span>
+<br />
+<label asp-for="Categoria"></label>
+<input asp-for="Categoria" />
+<span asp-validation-for="Categoria"></span>
+<br />
+

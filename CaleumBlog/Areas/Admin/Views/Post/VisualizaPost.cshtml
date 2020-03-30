@@ -1,0 +1,30 @@
+﻿@model Post
+
+<h1>Edição de Postagem</h1>
+<form asp-controller="Post" asp-action="EditaPost" method="post">
+    @Html.EditorForModel()
+
+    @if (!Model.Publicado)
+    {
+        <button asp-controller="Post" asp-action="PublicaPost" asp-route-id="@Model.ID">Publicar</button>
+    }
+
+    <button type="submit">Salvar</button>
+    <button asp-controller="Post" asp-action="DeletarPost" asp-route-id="@Model.ID">Deletar Post</button>
+
+    @*<input type="hidden" name="id" value="@Model.ID" />
+        <label for="titulo">Título:<input name="titulo" required value="@Model.Titulo" /></label>
+        @Html.ValidationMessage("titulo")
+        <br />
+        <label for="resumo">Resumo:<input type="text" name="resumo" required value="@Model.Resumo" /></label>
+        @Html.ValidationMessage("resumo")
+        <br />
+        <label for="categoria">Categoria:<input name="categoria" value="@Model.Categoria" /></label>
+        <br />*@
+
+</form>
+
+@section Scripts  {
+    @*@Html.Partial("_Scripts"); // jeito obseleto*@
+    <partial name="_Scripts"/>
+}

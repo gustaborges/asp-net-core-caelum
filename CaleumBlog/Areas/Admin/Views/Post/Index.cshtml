@@ -1,0 +1,34 @@
+﻿@model IList<Post>
+
+@Html.ActionLink("Nova postagem", "AdicionaPostagem")
+
+<table>
+    <tr>
+        <th>Título</th>
+        <th>Resumo</th>
+        <th>Categoria</th>
+        <th>Publicado</th>
+    </tr>
+    <tbody>
+        @foreach (var postagem in Model)
+        {
+            <tr>
+                <td>@postagem.Titulo</td>
+                <td>@postagem.Resumo</td>
+                <td>@postagem.Categoria</td>
+                <td>
+                    @if (postagem.Publicado)
+                    {
+                        @Html.Raw(string.Format("{0:dd/MM/yyyy}", postagem.DataPublicacao));
+                    }
+                    else
+                    {
+                        @Html.Raw("Não");
+                    }
+                </td>
+                <td><a asp-controller="Post" asp-action="VisualizaPost" asp-route-id="@postagem.ID">Editar</a></td>
+            </tr>
+        }
+    </tbody>
+
+</table>

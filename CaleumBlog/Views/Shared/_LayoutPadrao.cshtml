@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Resenha Cultural</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/estilo.css" />
+    <link rel="stylesheet" href="~/css/jquery-ui.css" />
+
+</head>
+
+<body>
+
+    <partial name="_Cabecalho"/>
+
+    <div class="container clearfix">
+        <main>
+            @RenderBody()
+        </main>
+
+        <partial name="_BarraLateral"/>
+    </div>
+
+    <partial name="_Rodape"/>
+</body>
+
+</html>

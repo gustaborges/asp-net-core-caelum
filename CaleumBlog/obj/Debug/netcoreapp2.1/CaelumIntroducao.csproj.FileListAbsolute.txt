@@ -1,0 +1,42 @@
+C:\Users\aspnet8735\Desktop\CaelumIntroducao\CaelumIntroducao\bin\Debug\netcoreapp2.1\CaelumIntroducao.deps.json
+C:\Users\aspnet8735\Desktop\CaelumIntroducao\CaelumIntroducao\bin\Debug\netcoreapp2.1\CaelumIntroducao.runtimeconfig.json
+C:\Users\aspnet8735\Desktop\CaelumIntroducao\CaelumIntroducao\bin\Debug\netcoreapp2.1\CaelumIntroducao.runtimeconfig.dev.json
+C:\Users\aspnet8735\Desktop\CaelumIntroducao\CaelumIntroducao\bin\Debug\netcoreapp2.1\CaelumIntroducao.dll
+C:\Users\aspnet8735\Desktop\CaelumIntroducao\CaelumIntroducao\bin\Debug\netcoreapp2.1\CaelumIntroducao.pdb
+C:\Users\aspnet8735\Desktop\CaelumIntroducao\CaelumIntroducao\bin\Debug\netcoreapp2.1\CaelumIntroducao.Views.dll
+C:\Users\aspnet8735\Desktop\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.csprojAssemblyReference.cache
+C:\Users\aspnet8735\Desktop\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.csproj.CoreCompileInputs.cache
+C:\Users\aspnet8735\Desktop\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.RazorAssemblyInfo.cache
+C:\Users\aspnet8735\Desktop\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.RazorAssemblyInfo.cs
+C:\Users\aspnet8735\Desktop\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.AssemblyInfoInputs.cache
+C:\Users\aspnet8735\Desktop\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.AssemblyInfo.cs
+C:\Users\aspnet8735\Desktop\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.RazorTargetAssemblyInfo.cache
+C:\Users\aspnet8735\Desktop\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.dll
+C:\Users\aspnet8735\Desktop\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.pdb
+C:\Users\aspnet8735\Desktop\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.csproj.CopyComplete
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\bin\Debug\netcoreapp2.1\CaelumIntroducao.deps.json
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\bin\Debug\netcoreapp2.1\CaelumIntroducao.runtimeconfig.json
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\bin\Debug\netcoreapp2.1\CaelumIntroducao.runtimeconfig.dev.json
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\bin\Debug\netcoreapp2.1\CaelumIntroducao.dll
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\bin\Debug\netcoreapp2.1\CaelumIntroducao.pdb
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\bin\Debug\netcoreapp2.1\CaelumIntroducao.Views.dll
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.csprojAssemblyReference.cache
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.csproj.CoreCompileInputs.cache
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.RazorAssemblyInfo.cache
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.RazorAssemblyInfo.cs
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.AssemblyInfoInputs.cache
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.AssemblyInfo.cs
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.RazorTargetAssemblyInfo.cache
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.dll
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.pdb
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.csproj.CopyComplete
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\bin\Debug\netcoreapp2.1\CaelumIntroducao.Views.pdb
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.TagHelpers.input.cache
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.TagHelpers.output.cache
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.RazorCoreGenerate.cache
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\Razor\Views\Shared\EditorTemplates\Post.g.cshtml.cs
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.RazorTargetAssemblyInfo.cs
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\CaelumIntroducao.Views.pdb
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutPadrao.g.cshtml.cs
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ViewImports.g.cshtml.cs
+C:\Users\aspnet8735\Desktop\FN-23 Web com ASP.NET\CaelumIntroducao\CaelumIntroducao\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ViewStart.g.cshtml.cs

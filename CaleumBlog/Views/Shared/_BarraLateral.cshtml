@@ -1,0 +1,28 @@
+﻿
+<aside>
+    <div>
+        <h3>Buscar</h3>
+        <form asp-controller="Home" asp-action="Busca" method="get" class="inline">
+            <div class="input-group">
+                <input type="text" name="termo" class="form-control" placeholder="Buscar por..." />
+                <span class="input-group-append">
+                    <button class="btn btn-primary">Ok</button>
+                </span>
+            </div>
+        </form>
+    </div>
+
+    <div id="categorias">
+        <h3>Categorias</h3>
+        <ul>
+            @foreach (string categoria in ViewBag.Categorias)
+            {
+                <li><a asp-action="Categoria" asp-controller="Home" asp-route-id="@categoria">@categoria</a></li>
+            }
+        </ul>
+    </div>
+
+    <div id="autores">
+        <h3>Autores</h3>
+    </div>
+</aside>

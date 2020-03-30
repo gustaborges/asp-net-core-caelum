@@ -1,0 +1,21 @@
+﻿@model Post
+<!--Vai, manda os dados e volta para a própria view-->
+<form asp-controller="Post" asp-action="AdicionaPostagem" method="post">
+
+    @Html.EditorFor(p => p, "PostPublicacao")
+
+    <button class="btn btn-primary" type="submit">Publicar</button>
+    @*
+            ANTES:
+            <label>Título: <input type="text" name="titulo" required maxlength="50" value="@Model.Titulo" /></label>
+        @Html.ValidationMessage("titulo")
+        <label>Resumo: <input type="text" name="resumo" required value="@Model.Resumo" /></label>
+        @Html.ValidationMessage("resumo")
+        <label>Categoria: <input type="text" name="categoria" value="@Model.Categoria" /></label>
+        @Html.ValidationMessage("categoria") *@
+</form>
+
+@section Scripts  {
+    @*@Html.Partial("_Scripts"); // jeito obseleto*@
+    <partial name="_Scripts" />
+}

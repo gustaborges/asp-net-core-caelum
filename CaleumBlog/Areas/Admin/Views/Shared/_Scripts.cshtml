@@ -1,0 +1,22 @@
+﻿<script src="~/js/jquery-1.10.2.js"></script>
+<script src="~/js/jquery-ui.js"></script>
+<script>
+    // Fazendo o input Categoria ter autocomplete fornecido via JsonResult
+    // pela Action do Controller
+    $("input[name='Categoria']").autocomplete({
+        source: function (request, response) {
+            $.post("@Url.Action("CategoriaAutocomplete")",
+                { termoDigitado: request.term },
+                function (data) {
+                    response(data);
+                });
+        }
+    });
+</script>
+
+<!--<script src="~/js/jquery.validate.unobstrusive.js"></script>
+<script src="~/js/jquery-1.10.2.js"></script>
+<script>
+    $("form").validate()
+</script>
+-->
